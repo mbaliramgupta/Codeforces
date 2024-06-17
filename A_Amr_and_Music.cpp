@@ -30,3 +30,4 @@ int main()
 
     return 0;
 }
+//Note: We Can show the output of indices in any order as Given in the Question
